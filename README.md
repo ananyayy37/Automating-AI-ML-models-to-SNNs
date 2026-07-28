@@ -49,9 +49,6 @@ Prediction
 
 An LIF neuron accumulates incoming spikes in its membrane potential. When the membrane potential reaches a threshold, the neuron emits a spike and the membrane potential is reset.
 
-<p align="center">
-  <img src="images/lif_neuron.png" width="450">
-</p>
 
 ---
 
